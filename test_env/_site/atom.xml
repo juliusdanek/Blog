@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Julius' Blog</title>
+ <link href="http://blog.juliusdanek.dehttp://blog.juliusdanek.de/atom.xml" rel="self"/>
+ <link href="http://blog.juliusdanek.dehttp://blog.juliusdanek.de/"/>
+ <updated>2015-06-13T17:06:56-07:00</updated>
+ <id>http://blog.juliusdanek.de</id>
+ <author>
+   <name>Julius Danek</name>
+   <email>juliusdanek@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Financial lessons for entrepreneurs</title>
+   <link href="http://blog.juliusdanek.de/finance/2015/06/13/termsheets/"/>
+   <updated>2015-06-13T17:03:42-07:00</updated>
+   <id>http://blog.juliusdanek.dehttp://blog.juliusdanek.de/finance/2015/06/13/termsheets</id>
+   <content type="html">&lt;h1 id=&quot;financial-lessons-for-entrepreneurs&quot;&gt;Financial lessons for entrepreneurs&lt;/h1&gt;
+
+&lt;p&gt;In the startup environment of 2015, a ton of money gets distributed daily to new companies by venture capital firms, angels, institutional investors, individuals and many more actors. Some people insist that we are seeing a major bubble rise. This might be true or not but that does not change the fact that fundraising is one of the &lt;em&gt;main activities&lt;/em&gt; of a startups CEO or key personnel. Many entrepreneurs that I met during my time at MIT recounted being more of a “Chief Fundraising Officer” than CEO for the first months of their companies.&lt;/p&gt;
+
+&lt;p&gt;This means that any head-start you can get on the fundraising process is of tremendous advantage. In a series of blogposts I want to share with you my insights from two MIT courses that I took on the matter, 10.407 - Money for Startups and 15.431 - Entreprenerial Finance. Disclaimer: I have not gone through funding processes myself yet - but I am planning to do so and I think meticulous preparation is the best way. Speaking with seasoned entrepreneurs, investors, reading blogs and my classes have helped me form a good theoretical idea that I would like to put forward to the reader. This is not a guide on how to pitch your company or how to approach potential investors. This is purely related to the finance process of fundraising. Another caveat: I will not be covering debt-financing either, this is purely equity financing related.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Equity financing means giving up a percentage of your company in return for funds rather than taking on debts that will need to be repaid later on. In &lt;a href=&quot;https://en.wikipedia.org/wiki/Modigliani%E2%80%93Miller_theorem&quot;&gt;finance theory&lt;/a&gt;, there is supposedly no difference between the two, albeit relying on the absence of transaction costs, taxes and a whole other lot of real life issues. This article gives a good overview over the discussion of &lt;a href=&quot;http://www.nfib.com/article/ital-50036/&quot;&gt;debt- vs. equity financing&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In the following articles I want to cover seven topics, starting with number 1 below. I will frequently link to other blogs and sites that have good insights for more detailed discussions. I would like to see the blog as a forum for discussion. If you disagree with any of the content, leave a comment. If you have any experience, leave a comment. The more discussion, the better.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Where can you raise money from and who are the actors?&lt;/li&gt;
+  &lt;li&gt;Valuing ventures&lt;/li&gt;
+  &lt;li&gt;Investment structures&lt;/li&gt;
+  &lt;li&gt;Termsheets - what do they look like and what are the most important items?&lt;/li&gt;
+  &lt;li&gt;The role of lawyers and legal counsel&lt;/li&gt;
+  &lt;li&gt;Negotiations&lt;/li&gt;
+  &lt;li&gt;The investor / VC perspective&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;sources-of-money-and-actors&quot;&gt;1. Sources of money and actors&lt;/h1&gt;
+
+&lt;p&gt;Sources of money and actors in the venture financing business are abundant. There are angels, accelerators, incubators, VC funds, strategic funds, institutional investors, friends and family, grants, and so on and so on. How should you know what is right for you and what is not? VC money definitely is not always the right answer, as this &lt;a href=&quot;http://www.fastcompany.com/3036130/hit-the-ground-running/why-venture-capital-wasnt-right-for-me-and-15-alternative-funding-sou&quot;&gt;blogpost by Laurie Peterson&lt;/a&gt; perfectly illustrates. She also provides an excellent overview over the type of sources of funding that you can leverage next to traditional VC funding.&lt;/p&gt;
+
+&lt;script id=&quot;infogram_0_number_of_deals_and__per_deal_in_vc_from_2005_to_2015&quot; src=&quot;//e.infogr.am/js/embed.js?46k&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;div style=&quot;width:100%;border-top:1px solid #acacac;padding-top:3px;font-family:Arial;font-size:10px;text-align:center;&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://infogr.am/number_of_deals_and__per_deal_in_vc_from_2005_to_2015&quot; style=&quot;color:#acacac;text-decoration:none;&quot;&gt;Number of deals and $ per deal in VC from 2005 to 2015&lt;/a&gt; | &lt;a style=&quot;color:#acacac;text-decoration:none;&quot; href=&quot;https://infogr.am&quot; target=&quot;_blank&quot;&gt;Create infographics&lt;/a&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;what-matters&quot;&gt;What matters?&lt;/h2&gt;
+
+&lt;h3 id=&quot;region&quot;&gt;Region&lt;/h3&gt;
+
+&lt;h3 id=&quot;gender-&quot;&gt;Gender (?)&lt;/h3&gt;
+
+&lt;h3 id=&quot;industry&quot;&gt;Industry&lt;/h3&gt;
+
+&lt;h3 id=&quot;stage&quot;&gt;Stage&lt;/h3&gt;
+
+&lt;!-- [link](http://techcrunch.com/2015/06/08/lessons-from-a-study-of-perfect-pitch-decks-vcs-spend-an-average-of-3-minutes-44-seconds-on-them/) --&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Useful Swift Shorthand Notations</title>
+   <link href="http://blog.juliusdanek.de/coding/2015/06/11/useful-swift-shorthand-notations/"/>
+   <updated>2015-06-11T00:00:00-07:00</updated>
+   <id>http://blog.juliusdanek.dehttp://blog.juliusdanek.de/coding/2015/06/11/useful-swift-shorthand-notations</id>
+   <content type="html">&lt;p&gt;While studying Swift I sometimes come across shorthand notation that can be extremely confusing at first. You don’t know the name of the particular shorthand and don’t know where to look it up at first but when you get the gist of it, it can be extremely useful. I will list a few here that I found to be interesting as I have not encountered them in other languages before.&lt;/p&gt;
+
+&lt;h2 id=&quot;terniary&quot;&gt;Terniary&lt;/h2&gt;
+
+&lt;p&gt;A great example is the &lt;a href=&quot;https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/BasicOperators.html&quot;&gt;ternary&lt;/a&gt;(look under “Ternary Conditional Operator”). A terniary can look something like this:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-swift&quot; data-lang=&quot;swift&quot;&gt;&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nl&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CGFloat&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;blueControl&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;on&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Pseudo-code:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If self.blueControl is on (self.blueControl is a on/off switch), assign b a CGFloat with the value of 1. If it isn’t, assign the value of 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In code, this is shorthand notation for:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-swift&quot; data-lang=&quot;swift&quot;&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;blueControl&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;on&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nl&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CGFloat&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nl&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CGFloat&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Here’s another example that illustrates the use of terniaries&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-swift&quot; data-lang=&quot;swift&quot;&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nl&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Int&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nl&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Int&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nl&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Int&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;assigning-bools&quot;&gt;Assigning bools&lt;/h2&gt;
+
+&lt;p&gt;In another persons’ code I encountered this interesting notation:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-swift&quot; data-lang=&quot;swift&quot;&gt;&lt;span class=&quot;n&quot;&gt;youWon&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;opponentChoice&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Paper&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Pseudo-code:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If opponentChoice equals string “Paper”, assign youWon the boolean value of true.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;or:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-swift&quot; data-lang=&quot;swift&quot;&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;opponentChoice&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Paper&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;youWon&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;true&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;youWon&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;false&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;I will update this as I find new shorthand notations!&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why coding? - Part 2</title>
+   <link href="http://blog.juliusdanek.de/general/2015/06/10/why-coding%3F-part2/"/>
+   <updated>2015-06-10T00:00:00-07:00</updated>
+   <id>http://blog.juliusdanek.dehttp://blog.juliusdanek.de/general/2015/06/10/why-coding?-part2</id>
+   <content type="html">&lt;h2 id=&quot;why-coding&quot;&gt;Why coding?&lt;/h2&gt;
+
+&lt;!-- TODO: Finish inserting links into part 1 &amp; 2 --&gt;
+
+&lt;p&gt;I decided to split this post into two parts. Part 1 explaining what led up to me starting to code and part 2 explaining why I enjoy coding.&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+	Julius, why have you started coding, what are you hoping to accomplish?
+&lt;/p&gt;
+
+&lt;h1 id=&quot;codecademy&quot;&gt;Codecademy&lt;/h1&gt;
+
+&lt;p&gt;I started off easy, learning HTML and CSS, which, quite frankly, I do not enjoy as much. They are pretty simple but do not actually have much to do with coding or programming. 
+When I came to JavaScript and jQuery, it got more interesting.&lt;/p&gt;
+
+&lt;p&gt;For people with no exposure to coding, a quick explanation of these languages:&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
+  &lt;dd&gt;The language used to describe and define the content of a Web page. HTML is found throughout the web and basically acts as a scaffolding for a website. Inside the scaffolding you can place content like texts, images, texts, etc. You can see what html looks like &lt;a href=&quot;http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic_document&quot;&gt;here&lt;/a&gt;&lt;/dd&gt;
+
+  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
+  &lt;dd&gt;Used to describe the appearance of Web content. CSS is like a fancy interior designer that makes sure that your website looks awesome, has nice colors and that all the same elements like a paragraph or a header look the same. If you are Firefox you can see what your websites look like without CSS by going to &quot;View --&amp;gt; Pagestyle --&amp;gt; No Style&quot;. This sometimes also happens to websites, for example when you go on Facebook and it just shows a white background and blue links, that means that the CSS files failed to load.&lt;/dd&gt;
+
+  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
+  &lt;dd&gt;The programming language used to build advanced Web sites and applications. Javascript is a &quot;real&quot; programming language. You can research it in more detail online but in the context of a simple website it basically powers animations, button clicks, and other dynamic interactions. You can liken it to the doors and lightswitches in your house.
+  jQuery is an an extension of JavaScript that allows to manipulate effects easily on your website, much like a toolbox. 
+   &lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;JavaScript first introduced me to basic programming concepts such as if statements, for loops, variable declarations, functions, etc. To show the usage of these concepts, codecademy let’s you code very simple programs like basic calculators, grocery lists, and so on.&lt;/p&gt;
+
+&lt;p&gt;It was not until I started learning Python however that coding fully ignited my passion. Python is generally seen as a language that is easy to learn and that can be applied in many different contexts. Below is a very simple and elegant example of how you can add two numbers by defining a function.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;o&quot;&gt;//&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Create&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;that&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;takes&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;two&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;arguments&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;returns&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;the&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;of&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;those&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;arguments&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;
+
+&lt;span class=&quot;o&quot;&gt;//&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Call&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;the&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;function&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;o&quot;&gt;//&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;The logic behind it is extremely powerful and intuitive. Python exposed me to the first problems that required me to really sit down for several hours and just do problem solving, for example:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Write a function that takes a list of numbers and only returns those that are divisible by 3.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are many many ways to solve this. The feeling you get when the desired answers finally prints to your screen and without error is incredible. This feeling of instant gratification is incredible and I have not encountered it elsewhere. Before computer programming, the only time I could ever concentrate continuously for several hours on thing was when solving math problems that were hard but had a solution somewhere on the horizon.&lt;/p&gt;
+
+&lt;p&gt;I realize that my teaching myself I will hardly ever challenge a computer science major in their own field, but teaching myself the practical skills while simultaneously diving into what constitutes the underlying structure the digital and tech world is something that I yearn to do. Learning how to code seems like the perfect way to do it and I am enjoying it tremendously - just as the MIT motto says: ‘mens et manus’.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why coding? - Part 1</title>
+   <link href="http://blog.juliusdanek.de/general/2015/06/10/why-coding%3F-part1/"/>
+   <updated>2015-06-10T00:00:00-07:00</updated>
+   <id>http://blog.juliusdanek.dehttp://blog.juliusdanek.de/general/2015/06/10/why-coding?-part1</id>
+   <content type="html">&lt;h2 id=&quot;why-coding&quot;&gt;Why coding?&lt;/h2&gt;
+
+&lt;!-- Add part1 and part 2 hyperlinks so they are connected --&gt;
+&lt;p&gt;I decided to split this post into two parts. Part 1 explaining what led up to me starting to code and part 2 explaining why I enjoy coding.&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+	Julius, why have you started coding, what are you hoping to accomplish?
+&lt;/p&gt;
+
+&lt;p&gt;I have been asked this question many times over the past months. My interest in technology and computers reaches far back. In my childhood and teenage years however it was rather geared or “misdirected” towards computer games (even though I do not regret a single moment playing all those awesome games).&lt;/p&gt;
+
+&lt;h1 id=&quot;economics-and-identity-crisis&quot;&gt;Economics and identity crisis&lt;/h1&gt;
+
+&lt;p&gt;After graduating high school and an identity crisis with no real idea what my real interests where I decided to study economics - it seemed like a reasonable choice at the time, offering job security and heck, everybody was doing it! It promised to apply mathematics to solve real world problems and that really intrigued me.&lt;/p&gt;
+
+&lt;p&gt;I did enjoy studying economics, I do believe it is one of the most profound and influential academic fields (whether it is a science is at least debatable: &lt;a href=&quot;http://www.nytimes.com/2013/10/21/opinion/yes-economics-is-a-science.html&quot;&gt;yes&lt;/a&gt;, &lt;a href=&quot;http://www.thecrimson.com/article/2013/12/13/economics-science-wang/&quot;&gt;no&lt;/a&gt;, &lt;a href=&quot;http://www.project-syndicate.org/commentary/robert-j--shilleron-whether-he-is-a-scientist&quot;&gt;maybe&lt;/a&gt;). The mathematical problems were challenging and some of the models very interesting. However, besides on paper I did not feel like I was actually accomplishing much.&lt;/p&gt;
+
+&lt;p&gt;Computer science was not on my radar at all. My cousin &lt;a href=&quot;https://de.linkedin.com/in/fabianruffy&quot;&gt;Fabian&lt;/a&gt; was a computer science major at LMU München and when I observed him studying all the Boolean logic and assembly language I was happy that I was doing the ‘easier’ economics math work.&lt;/p&gt;
+
+&lt;h1 id=&quot;back-to-tech&quot;&gt;Back to tech&lt;/h1&gt;
+
+&lt;p&gt;In 2011 then, with an internship in VC in New York I started getting exposure to finance and its role in facilitating technological progress. Being exposed to many ideas and entrepreneurs made me curious about the realm of tech and startups and I started reading up on ideas, blogs, newspaper articles, etc. When I came to MIT originally a year ago for my Master’s degree, I was planning on either&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;launching my own company or&lt;/li&gt;
+  &lt;li&gt;working at a VC firm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The environment at MIT however drove me to try out something else completely, coding. I had built a website before, the previous version of &lt;a href=&quot;http://entrefem.de&quot;&gt;www.entrefem.de&lt;/a&gt; with the help of a friend, a template and lots of patchwork (my friend told me I totally messed up the code more than once). This time however I wanted to get down to the nit and grit. I felt that being at MIT I did not want to be reduced only to me being a ‘Sloanie’. I wanted to be on the tech side as well, even if it was just basics and talking the lingo.&lt;/p&gt;
+
+&lt;p&gt;I began my journey with a popular starting point:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;www.cadecademy.org&quot;&gt;Codecademy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Codecademy was a great starting point as it was&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Free&lt;/li&gt;
+  &lt;li&gt;Designed for beginners&lt;/li&gt;
+  &lt;li&gt;Motivational&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And so I began taking coding classes online and at MIT, steadily being sucked into the world of computer science.&lt;/p&gt;
+
+&lt;p&gt;Read more in part 2!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hello World!</title>
+   <link href="http://blog.juliusdanek.de/2015/06/09/hello-world/"/>
+   <updated>2015-06-09T00:00:00-07:00</updated>
+   <id>http://blog.juliusdanek.dehttp://blog.juliusdanek.de/2015/06/09/hello-world</id>
+   <content type="html">&lt;h2 id=&quot;hi-welcome-to-my-blog&quot;&gt;Hi! Welcome to my blog.&lt;/h2&gt;
+
+&lt;p&gt;Why start a blog in the first place? As I graduated from &lt;a href=&quot;http://mit.edu&quot;&gt;MIT&lt;/a&gt; last Friday, June 5th, I decided to move out to California to continue the coding education that I began last year in September. Setting up my own website and blog seems like a logical extension of my continued practical education.&lt;/p&gt;
+
+&lt;p&gt;What do I want to achieve during my time in Cali? I am not sure whether I will be able to make it as a fully fledged software developer, the more I learn the more I realize that there is so much more to it then simply learning how to code and my visa simply isn’t long enough to give me enough time to compete with the people that major in computer science. I do however want to get an understanding that is thorough enough so I can&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;understand the basic principles of programming&lt;/li&gt;
+  &lt;li&gt;talk the lingo of computer scientists&lt;/li&gt;
+  &lt;li&gt;be able to read and understand snippets of code&lt;/li&gt;
+  &lt;li&gt;explore to connect the different pieces of code through requests, API’s, databases, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My aim is ultimately to completely understand the process of how a web application or an iOS application works. How does it connect to a database? How does it communicate with a webserver? What are the current trends in the industry? I am very excited to be exploring these questions in the next couple of months.&lt;/p&gt;
+
+&lt;p&gt;In the end I would like to be able to use the technical skills I learned in conjunction with the finance and business skills that I have acquired during my education both at MIT and at Utrecht. The role of a product manager seems to perfectly fit this description. Ideally, I would like to grow into this role by starting my own business.&lt;/p&gt;
+
+&lt;p&gt;Over the next weeks and months I will be blogging about all kinds of things:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Technical posts explaining what projects I do, I did them and what resources I used&lt;/li&gt;
+  &lt;li&gt;Thoughts about entrepreneurship (I know there is lot of stuff about this out there already but this will be from my perspective)&lt;/li&gt;
+  &lt;li&gt;My journey, what I am going through, where I am, what I am doing&lt;/li&gt;
+  &lt;li&gt;Random Ramblings&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I am excited to be writing about these things and having people be part of my journey.&lt;/p&gt;
+
+&lt;p&gt;Julius&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Example content</title>
+   <link href="http://blog.juliusdanek.de/2015/04/19/example-content/"/>
+   <updated>2015-04-19T14:57:24-07:00</updated>
+   <id>http://blog.juliusdanek.dehttp://blog.juliusdanek.de/2015/04/19/example-content</id>
+   <content type="html">&lt;div class=&quot;message&quot;&gt;
+  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+&lt;/div&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+
+&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt;
+
+&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
+  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
+
+&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
+
+&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+
+&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;return a + b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
+
+&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
+  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
+  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
+  &lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
+  &lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
+  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
+
+  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
+  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
+
+  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
+  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
+
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Upvotes&lt;/th&gt;
+      &lt;th&gt;Downvotes&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Totals&lt;/td&gt;
+      &lt;td&gt;21&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alice&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bob&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charlie&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
